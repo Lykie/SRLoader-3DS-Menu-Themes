@@ -7,7 +7,7 @@ Download the source of [SRLoader](https://github.com/Robz8/SRLoader)
 Copy the folders from the theme, and paste them into "romsel_dsimenutheme" and build SRLoader.
 
 # Notes
-If you want to "port" your own themes for use, then you'll need to be able to scale/crop them and also limit the image to 16 colors (only required for bottom screen).
+If you want to "port" your own themes for use, then you'll need to be able to scale/crop them and also limit the image to 256 colors for top screen, and 16 colors for bottom screen.
 
 You'll also need a music editor such as [Audacity](https://www.audacityteam.org) to add music to the menu.
 

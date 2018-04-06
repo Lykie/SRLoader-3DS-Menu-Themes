@@ -15,7 +15,7 @@ I recommend using [XNViewMP](https://www.xnview.com/en/xnviewmp/).
 
 If your image is synced between the top and bottom screens on 3DS, then you should scale the bottom screen image, and crop the top screen canvas while having it align to the bottom.
 
-# How to Limit to 16 Colors
+# How to Limit to 16 Colors using XNViewMP
 Open the Image in XNViewMP
 
 Click the Image tab
@@ -27,6 +27,8 @@ Click the bubble next to the word "Colors"
 Click the dropdown menu and click "16"
 
 (Optional) Click "Dithering" and set it to "None"
+
+Save the changes
 
 # Audacity Tutorial (inefficient)
 Open the music file in Audacity
@@ -45,4 +47,4 @@ This should be changed to "16000" to cut down on file size
 
 Once modification is complete, click File -> Export Audio and change the dropdown menu to "WAV (Microsoft) signed 16-bit PCM"
 
-Name it "menu.wav" and save it, now you can place the resulting file at "romsel_dsimenutheme/music" and compile SRLoader to see the fruits of your efforts
+Name it "menu.wav" and save it, now you can place the resulting file at "romsel_dsimenutheme/music" and compile SRLoader to hear the fruits of your efforts
